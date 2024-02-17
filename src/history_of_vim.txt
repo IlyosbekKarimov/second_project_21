@@ -9,5 +9,18 @@ Here is an overview of Vim's history:
   1996 May 29 - Vim 4.0:  Graphical User Interface (largely by Robert Webb).
   1998 Feb 19 - Vim 5.0:  Syntax coloring/highlighting.
   2001 Sep 26 - Vim 6.0:  folding, plugins, vertical split
+  2003 Mar 4 - Vim 6.1: Adds various improvements and bug fixes.
+  2004 Aug 15 - Vim 6.3: Includes enhancements such as spell-checking, file diffing, and cursor movements.
+  2005 May 12 - Vim 6.4: Introduces features like tabs, improved syntax highlighting, and autocompletion.
+  2006 May 7 - Vim 7.0: Brings significant advancements including spell-checking in multiple languages, support for tabs and multi-level undo/redo.
+  2008 Aug 15 - Vim 7.2: Provides improvements to folding, syntax highlighting, and introduces the "undo tree" feature.
+  2010 Aug 15 - Vim 7.3: Includes enhancements like persistent undo, concealed text, and improved Python interface.
+  2013 Aug 10 - Vim 7.4: Introduces various new features and fixes, including support for more scripting languages, improved speed, and better handling of large files.
+  2015 Sep 12 - Vim 7.4.800: Adds support for asynchronous I/O, job control, and timers.
+  2016 Sep 12 - Vim 8.0: Brings significant improvements, including built-in package management, more powerful job control, and support for channels and JSON.
+  2017 Sep 12 - Vim 8.0.1201: Adds support for running a terminal emulator inside Vim, allowing interactive command execution.
+  2018 May 18 - Vim 8.1: Introduces various enhancements and bug fixes, including improvements to the terminal emulator and new features for Vimscript.
+  2020 Dec 25 - Vim 8.2: Includes improvements such as popup windows, improved JSON support, and better handling of undo/redo.
+  2021 Mar 19 - Vim 8.2.2777: Adds support for highlighting linked errors and warnings in the quickfix window.
 20
 
